@@ -1,0 +1,3 @@
+[submodule "osc-debug"]
+	path = osc-debug
+	url = https://github.com/alexlipscomb/osc-debug
